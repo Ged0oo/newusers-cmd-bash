@@ -208,3 +208,6 @@ Common issues and solutions:
 4. **Home Directory Issues**: Verify parent directory permissions
 
 ## Output
+<p align="left">
+  <img src="./static/screenshot.png" alt="screen" />
+</p>
